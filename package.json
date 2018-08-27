@@ -1,0 +1,19 @@
+{
+	"name": "theme-face-color",
+	"displayName": "%displayName%",
+	"description": "%description%",
+	"version": "1.0.0",
+	"publisher": "vscode",
+	"engines": {
+		"vscode": "*"
+	},
+	"contributes": {
+		"themes": [
+			{
+				"label": "Face Color",
+				"uiTheme": "vs-dark",
+				"path": "./themes/face-color.json"
+			}
+		]
+	}
+}
