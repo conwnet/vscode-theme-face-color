@@ -1,4 +1,5 @@
 {
+    "$schema": "vscode://schemas/color-theme",
     "type": "dark",
     "colors": {
         "activityBarBadge.background": "#007acc",
@@ -798,6 +799,13 @@
             "scope": "keyword.operator",
             "settings": {
                 "foreground": "#e06c75"
+            }
+        },
+        {
+            "name": "Function argument",
+            "scope": "variable.parameter",
+            "settings": {
+                "fontStyle": "italic"
             }
         }
     ]
