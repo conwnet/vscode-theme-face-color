@@ -4,7 +4,7 @@
     "colors": {
         "activityBarBadge.background": "#007acc",
         "editor.background": "#1e1e1e",
-        "editor.foreground": "#d0d0d0",
+        "editor.foreground": "#c9c9c9",
         "editor.inactiveSelectionBackground": "#3a3d41",
         "editor.selectionHighlightBackground": "#add6ff26",
         "editorIndentGuide.activeBackground": "#707070",
@@ -90,7 +90,7 @@
         //"editorRuler.foreground": "#5a5a5a",
         //"editorSuggestWidget.background": "#2d2d30",
         //"editorSuggestWidget.border": "#454545",
-        //"editorSuggestWidget.foreground": "#d0d0d0",
+        //"editorSuggestWidget.foreground": "#c9c9c9",
         //"editorSuggestWidget.highlightForeground": "#0097fb",
         //"editorSuggestWidget.selectedBackground": "#062f4a",
         //"editorUnnecessaryCode.opacity": "#000000aa",
@@ -247,7 +247,7 @@
                 "source.groovy.embedded"
             ],
             "settings": {
-                "foreground": "#d0d0d0"
+                "foreground": "#c9c9c9"
             }
         },
         {
@@ -271,7 +271,7 @@
         {
             "scope": "comment",
             "settings": {
-                "foreground": "#909090"
+                "foreground": "#6a9955"
             }
         },
         {
@@ -498,7 +498,7 @@
                 "meta.template.expression"
             ],
             "settings": {
-                "foreground": "#d0d0d0"
+                "foreground": "#c9c9c9"
             }
         },
         {
@@ -529,7 +529,7 @@
         {
             "scope": "keyword.operator",
             "settings": {
-                "foreground": "#d0d0d0"
+                "foreground": "#c9c9c9"
             }
         },
         {
@@ -580,7 +580,7 @@
                 "storage.modifier.package.java"
             ],
             "settings": {
-                "foreground": "#d0d0d0"
+                "foreground": "#c9c9c9"
             }
         },
         {
@@ -780,7 +780,7 @@
                 "entity.name.variable"
             ],
             "settings": {
-                "foreground": "#d0d0d0"
+                "foreground": "#c9c9c9"
             }
         },
         {
